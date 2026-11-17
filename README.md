@@ -48,15 +48,16 @@ This GitHub is my learning journal and portfolio. Each project below takes a rea
  
 ## 📂 Projects
  
-| Project | Tools | What it shows |
-|---|---|---|
-| [**World Life Expectancy – Data Cleaning**](https://github.com/imalgirdas/world-life-expectancy-sql) | ![SQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | Removing duplicates, filling missing status values, interpolating life-expectancy gaps |
-| [**US Household Income – Automated Cleaning**](https://github.com/imalgirdas/us-household-income-sql) | ![SQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | Stored procedure, scheduled event and trigger that clean data automatically |
-| [**SQL Data Code Snippets**](https://github.com/imalgirdas/sql-snippets) | ![SQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | Reusable patterns: EDA, funnels, trends, sales KPIs, window functions, CTEs |
-| [**Tesla EV Data Pipeline**](https://github.com/imalgirdas/tesla-ev-pipeline) | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) | Five-table cleaning, analysis and an R Markdown dashboard |
-| [**Netflix Content Report**](https://github.com/imalgirdas/netflix-powerbi) | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logoColor=black) | Multi-page report with navigation, DAX measures and Power Query |
-| [**Sales Analysis Dashboard**](https://github.com/imalgirdas/excel-sales-dashboard) | ![Excel](https://img.shields.io/badge/-Excel-217346?logoColor=white) | Multi-table sales model built with Power Query, interactive dashboard |
+### 🛒 Amazon Sales Performance Analysis (2021–2025)
  
+<a href="https://github.com/imalgirdas/amazon-sales-pipeline">
+  <img src="https://raw.githubusercontent.com/imalgirdas/amazon-sales-pipeline/main/images/dashboard_sales_overview.png" alt="Amazon Sales Performance Dashboard" width="100%">
+</a>
+End-to-end sales analysis of an Amazon-style marketplace covering five years of trading. I built a full analytics pipeline across 16 related tables and ~680k rows, from data loading and cleaning through KPI modelling to a 5-page executive dashboard. The analysis tracks revenue growth from **$3.0M to $5.4M**, category mix shifts, customer retention, marketing ROI and delivery performance, and closes with data-driven business recommendations.
+ 
+**Focus areas:** Sales KPIs · Customer Retention · Marketing ROI · Fulfilment & Returns
+ 
+[![View Repository](https://img.shields.io/badge/View%20Repository-FF9900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/amazon-sales-pipeline)
 ---
  
 ## 📊 GitHub Stats
