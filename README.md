@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:217346,100:F2C811&height=180&section=header&text=Algirdas%20Vailionis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20in%20the%20Making&descAlignY=55" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/imalgirdas">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=217346&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+R+%7C+Power+BI+%7C+Excel;From+payroll+and+accounting+to+data+science;Turning+data+into+decisions;Open+to+work" alt="Typing SVG" />
+  </a>
+</p>
+
 ## 👨‍💼 About Me
 
 I'm a finance and payroll professional from Kaunas, Lithuania, in the middle of a career move into data analytics and data science. I have a Master's in Accounting and Audit and a Bachelor's in Economics and Finance, and I've spent several years working with numbers at Deloitte Lithuania, NKT and Nordgain. Over time I realised that the part of the job I enjoyed most wasn't closing the books. It was digging into the data behind them.
@@ -8,7 +18,7 @@ Now I'm turning that experience into technical skills. I write **SQL** for data 
 
 What sets me apart is that I understand both sides: the data and the business it describes. I know what a finance team needs from a report, which numbers management actually looks at, and how small data errors turn into real financial problems. My goal is to be an analyst who doesn't just produce charts but helps people make better decisions with clean, trustworthy data.
 
-This GitHub is my learning journal and portfolio. Each project below takes a real-world dataset from raw to insight: cleaning, analysis, visualisation and clear conclusions. I'm currently going deeper into data science with Python and R, and I'm **open to data analyst opportunities**. Feel free to reach out on LinkedIn or by email!
+This GitHub is my learning journal and portfolio. Each project below takes a real-world dataset from raw to insight: cleaning, analysis, visualisation and clear conclusions. I'm currently going deeper into data science with Python and R, and I'm **open to data analyst / data scientist opportunities**. Feel free to reach out on LinkedIn or by email!
 
 <p>
   <a href="https://www.linkedin.com/in/algirdas-vailionis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -17,16 +27,23 @@ This GitHub is my learning journal and portfolio. Each project below takes a rea
 ---
  
 ## 🛠️ Tools & Skills
- 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- 
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" title="SQL / MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" title="pandas" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" title="NumPy" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" title="Matplotlib" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" title="Jupyter" />
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55" title="R" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="55" title="RStudio" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="55" title="Excel" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="55" title="Power BI" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" title="GitHub" />
+</p>
 ---
  
 ## 📂 Projects
@@ -44,6 +61,7 @@ This GitHub is my learning journal and portfolio. Each project below takes a rea
  
 ## 📊 GitHub Stats
  
-![Algirdas' GitHub stats](https://github-readme-stats.vercel.app/api?username=imalgirdas&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imalgirdas&layout=compact&hide_border=true)
- 
+![GitHub Streak](https://streak-stats.demolab.com?user=imalgirdas&hide_border=true)
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,100:217346&height=100&section=footer" width="100%" />
