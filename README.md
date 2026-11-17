@@ -59,6 +59,22 @@ End-to-end sales analysis of an Amazon-style marketplace covering five years of 
  
 [![View Repository](https://img.shields.io/badge/View%20Repository-FF9900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/amazon-sales-pipeline)
 ---
+
+### 💳 Payco – Payment Fraud Detection & Risk Modelling (2021–2025)
+
+<a href="https://github.com/imalgirdas/payco-fraud-detection">
+  <img src="https://raw.githubusercontent.com/imalgirdas/payco-fraud-detection/main/images/dashboard_fraud_model.png" alt="Payco Fraud Detection Dashboard" width="100%">
+</a>
+
+End-to-end machine learning project for a second-hand fashion marketplace processing payments across 22 European countries. Working with 17 related tables and over 350k payment attempts, I cleaned the raw data, engineered leakage-safe features and trained models validated on a time-based split (train 2021–2024, test 2025). The fraud model catches <b>78% of fraud while reviewing only 1% of transactions</b>, compared with 21% for the existing rules-based score, with the review threshold set by business cost. Additional models predict payment failures and buyer churn, and results are presented in a 5-page dashboard.
+
+Focus areas: Fraud Detection · Payment Failure · Customer Churn · Cost-Based Decisioning
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/payco-fraud-detection)
+
+---
+
+
  
 ## 📊 GitHub Stats
  
