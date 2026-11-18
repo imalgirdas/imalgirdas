@@ -72,8 +72,23 @@ Focus areas: Fraud Detection · Payment Failure · Customer Churn · Cost-Based 
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/payco-fraud-detection)
 
+
+
 ---
 
+### 🛵 Forkly – Food Delivery Performance Analysis (2021–2025)
+
+<a href="https://github.com/imalgirdas/forkly-delivery-analytics">
+  <img src="https://raw.githubusercontent.com/imalgirdas/forkly-delivery-analytics/main/output/dashboard/page_1_executive_overview.png" alt="Forkly Food Delivery Dashboard" width="100%">
+</a>
+
+End-to-end data analytics project in Python for a food and grocery delivery app operating in 12 cities across the Baltics, Poland and Finland. Working with 15 related tables and 300k orders, I cleaned the raw data with pandas, explored five years of performance in Jupyter notebooks and built a 5-page dashboard with matplotlib and seaborn. GMV nearly tripled from <b>€0.73M to €2.04M</b>, and contribution per order turned from <b>a €1.03 loss into a €1.83 profit</b>. The analysis also shows that new cities drove 66% of 2025 GMV and late deliveries cut ratings from 4.5 to 2.5 stars.
+
+Focus areas: Data Cleaning · Unit Economics · Customer Retention · Delivery Operations · Marketing ROI
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-1E3A5F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/forkly-delivery-analytics)
+
+---
 
  
 ## 📊 GitHub Stats
