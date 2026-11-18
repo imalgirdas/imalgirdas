@@ -92,15 +92,15 @@ Focus areas: Data Cleaning · Unit Economics · Customer Retention · Delivery O
 
 ### 🏨 Lumora – Hotel Revenue & Guest Data Science (2021–2025)
 
-<a href="https://github.com/imalgirdas/lumora-hotels-data-science">
-  <img src="https://raw.githubusercontent.com/imalgirdas/lumora-hotels-data-science/main/images/dashboard_overview.png" alt="Lumora Hotels Data Science Dashboard" width="100%">
+<a href="https://github.com/imalgirdas/lumora-hotels">
+  <img src="https://raw.githubusercontent.com/imalgirdas/lumora-hotels/main/images/dashboard_overview.png" alt="Lumora Hotels Data Science Dashboard" width="100%">
 </a>
 
 End-to-end data science project in Python for a boutique hotel group with 15 hotels across Europe. Working with 17 related tables and 305k bookings, I cleaned the raw data with pandas and built six models with scikit-learn: cancellation prediction, a nightly demand forecast, price elasticity from a randomised price test, A/B test analysis, review score drivers and K-means guest segments. The cancellation model finds <b>47% of cancellations in the riskiest 20% of bookings</b>, and the forecast cuts daily error from <b>18.6% to 14.6%</b> against last year's pattern. Results are shown in a 5-page interactive dashboard with slicers for year, hotel, channel and guest segment.
 
 Focus areas: Machine Learning · Demand Forecasting · Pricing & A/B Testing · Guest Segmentation · Interactive Dashboard
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-0B0B0C?style=for-the-badge&logo=github&logoColor=F2C230)](https://github.com/imalgirdas/lumora-hotels-data-science)
+[![View Repository](https://img.shields.io/badge/View%20Repository-0B0B0C?style=for-the-badge&logo=github&logoColor=F2C230)](https://github.com/imalgirdas/lumora-hotels)
 
 ---
  
