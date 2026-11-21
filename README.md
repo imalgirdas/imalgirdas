@@ -72,6 +72,20 @@ Fraud and payments analysis for a European second-hand fashion marketplace, cove
 [![View Repository](https://img.shields.io/badge/View%20Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/payco-fraud-detection)
 ---
 
+### 🛵 Forkly Food Delivery Performance Analysis (2021–2025)
+
+<a href="https://github.com/imalgirdas/forkly-delivery-analytics">
+  <img src="https://raw.githubusercontent.com/imalgirdas/forkly-delivery-analytics/main/images/page1_overview.png" alt="Forkly Delivery Dashboard" width="100%">
+</a>
+
+End-to-end analysis of a food and grocery delivery app operating in 12 cities across the Baltics, Poland and Finland. Working in Python across 15 related tables (~1.5M rows), I cleaned the raw data, built unit economics, retention and RFM models, and delivered an interactive 4-page Dash & Plotly dashboard. The analysis tracks GMV growth from **€0.73M to €2.04M**, the turnaround from **losing €1.03 to earning €1.83 per order**, the 2022 operations crunch that pushed late deliveries to 32%, and which marketing channels actually pay off.
+
+**Focus areas:** Unit Economics · Customer Retention & RFM · Delivery Operations · Marketing ROI
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-1FA67A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/forkly-delivery-analytics)
+---
+
+
 ### 🏠 Airbnb Rentals Analysis (2022–2025)
 
 <a href="https://github.com/imalgirdas/Airbnb_Rentals_Analysis">
