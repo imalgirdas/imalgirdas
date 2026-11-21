@@ -47,6 +47,33 @@ This GitHub is my learning journal and portfolio. Each project below takes a rea
 ---
  
 ## 📂 Projects
+
+### 🏠 Airbnb Rentals Analysis (2022–2025)
+
+<a href="https://github.com/imalgirdas/Airbnb_Rentals_Analysis">
+  <img src="https://raw.githubusercontent.com/imalgirdas/Airbnb_Rentals_Analysis/main/Dashboard/ex01.png" alt="Airbnb Rentals Dashboard" width="100%">
+</a>
+
+Data cleaning pipeline and analysis for a short-term rental marketplace in London, Paris, Barcelona and Amsterdam. The source data (9 related tables, ~300k rows) came in dirty: mixed date formats, prices with the wrong currency sign or 100x too big, swapped coordinates, duplicate guests, totals that didn't add up and orphan references. I built a MySQL pipeline that loads everything as raw text, parses and validates every value, repairs what the data itself can prove, and routes the rest to a manual review queue instead of guessing. Only rows that pass every check reach the clean database, which went from **278K to 291K** clean rows after review. On top of it sits the analysis of **€48.65M** in revenue and a 4-page Looker Studio dashboard.
+
+```mermaid
+flowchart LR
+    A[Raw CSVs] --> B[(airbnb_raw<br/>all text)]
+    B --> C[Parse & validate<br/>dates, money, ids, rules]
+    C -->|passes| D[(airbnb_clean<br/>typed + constraints)]
+    C -->|can't fix safely| E[manual_* queue<br/>+ issue log]
+    E --> F[Evidence-based fixes<br/>e.g. total must add up]
+    F -->|re-run| C
+    D --> G[Analytics SQL]
+    D --> H[Report views → CSV]
+    H --> I[Looker Studio dashboard]
+```
+
+**Focus areas:** Data Cleaning & Validation · Revenue & Occupancy · Host Performance · Pricing & Reviews
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-FF5A5F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/Airbnb_Rentals_Analysis)
+---
+
  
 ### 🛒 Amazon Sales Performance Analysis (2021–2025)
  
