@@ -48,6 +48,18 @@ This GitHub is my learning journal and portfolio. Each project below takes a rea
  
 ## 📂 Projects
 
+### 🛒 Amazon Sales Performance Analysis (2021–2025)
+ 
+<a href="https://github.com/imalgirdas/amazon-sales-pipeline">
+  <img src="https://raw.githubusercontent.com/imalgirdas/amazon-sales-pipeline/main/images/dashboard_sales_overview.png" alt="Amazon Sales Performance Dashboard" width="100%">
+</a>
+End-to-end sales analysis of an Amazon-style marketplace covering five years of trading. I built a full analytics pipeline across 16 related tables and ~680k rows, from data loading and cleaning through KPI modelling to a 5-page executive dashboard. The analysis tracks revenue growth from **$3.0M to $5.4M**, category mix shifts, customer retention, marketing ROI and delivery performance, and closes with data-driven business recommendations.
+ 
+**Focus areas:** Sales KPIs · Customer Retention · Marketing ROI · Fulfilment & Returns
+ 
+[![View Repository](https://img.shields.io/badge/View%20Repository-FF9900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/amazon-sales-pipeline)
+---
+
 ### 🏠 Airbnb Rentals Analysis (2022–2025)
 
 <a href="https://github.com/imalgirdas/Airbnb_Rentals_Analysis">
@@ -75,17 +87,7 @@ flowchart LR
 ---
 
  
-### 🛒 Amazon Sales Performance Analysis (2021–2025)
- 
-<a href="https://github.com/imalgirdas/amazon-sales-pipeline">
-  <img src="https://raw.githubusercontent.com/imalgirdas/amazon-sales-pipeline/main/images/dashboard_sales_overview.png" alt="Amazon Sales Performance Dashboard" width="100%">
-</a>
-End-to-end sales analysis of an Amazon-style marketplace covering five years of trading. I built a full analytics pipeline across 16 related tables and ~680k rows, from data loading and cleaning through KPI modelling to a 5-page executive dashboard. The analysis tracks revenue growth from **$3.0M to $5.4M**, category mix shifts, customer retention, marketing ROI and delivery performance, and closes with data-driven business recommendations.
- 
-**Focus areas:** Sales KPIs · Customer Retention · Marketing ROI · Fulfilment & Returns
- 
-[![View Repository](https://img.shields.io/badge/View%20Repository-FF9900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/amazon-sales-pipeline)
----
+
 
 
 
