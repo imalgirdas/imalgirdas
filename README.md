@@ -60,53 +60,10 @@ End-to-end sales analysis of an Amazon-style marketplace covering five years of 
 [![View Repository](https://img.shields.io/badge/View%20Repository-FF9900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/amazon-sales-pipeline)
 ---
 
-### 💳 Payco – Payment Fraud Detection & Risk Modelling (2021–2025)
 
-<a href="https://github.com/imalgirdas/payco-fraud-detection">
-  <img src="https://raw.githubusercontent.com/imalgirdas/payco-fraud-detection/main/images/dashboard_fraud_model.png" alt="Payco Fraud Detection Dashboard" width="100%">
-</a>
-
-End-to-end machine learning project for a second-hand fashion marketplace processing payments across 22 European countries. Working with 17 related tables and over 350k payment attempts, I cleaned the raw data, engineered leakage-safe features and trained models validated on a time-based split (train 2021–2024, test 2025). The fraud model catches <b>78% of fraud while reviewing only 1% of transactions</b>, compared with 21% for the existing rules-based score, with the review threshold set by business cost. Additional models predict payment failures and buyer churn, and results are presented in a 5-page dashboard.
-
-Focus areas: Fraud Detection · Payment Failure · Customer Churn · Cost-Based Decisioning
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/payco-fraud-detection)
-
-
-
----
-
-### 🛵 Forkly – Food Delivery Performance Analysis (2021–2025)
-
-<a href="https://github.com/imalgirdas/forkly-delivery-analytics">
-  <img src="https://raw.githubusercontent.com/imalgirdas/forkly-delivery-analytics/main/output/dashboard/page_1_executive_overview.png" alt="Forkly Food Delivery Dashboard" width="100%">
-</a>
-
-End-to-end data analytics project in Python for a food and grocery delivery app operating in 12 cities across the Baltics, Poland and Finland. Working with 15 related tables and 300k orders, I cleaned the raw data with pandas, explored five years of performance in Jupyter notebooks and built a 5-page dashboard with matplotlib and seaborn. GMV nearly tripled from <b>€0.73M to €2.04M</b>, and contribution per order turned from <b>a €1.03 loss into a €1.83 profit</b>. The analysis also shows that new cities drove 66% of 2025 GMV and late deliveries cut ratings from 4.5 to 2.5 stars.
-
-Focus areas: Data Cleaning · Unit Economics · Customer Retention · Delivery Operations · Marketing ROI
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-1E3A5F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/forkly-delivery-analytics)
-
----
-
-### 🏨 Lumora – Hotel Revenue & Guest Data Science (2021–2025)
-
-<a href="https://github.com/imalgirdas/lumora-hotels">
-  <img src="https://raw.githubusercontent.com/imalgirdas/lumora-hotels/main/images/dashboard_overview.png" alt="Lumora Hotels Data Science Dashboard" width="100%">
-</a>
-
-End-to-end data science project in Python for a boutique hotel group with 15 hotels across Europe. Working with 17 related tables and 305k bookings, I cleaned the raw data with pandas and built six models with scikit-learn: cancellation prediction, a nightly demand forecast, price elasticity from a randomised price test, A/B test analysis, review score drivers and K-means guest segments. The cancellation model finds <b>47% of cancellations in the riskiest 20% of bookings</b>, and the forecast cuts daily error from <b>18.6% to 14.6%</b> against last year's pattern. Results are shown in a 5-page interactive dashboard with slicers for year, hotel, channel and guest segment.
-
-Focus areas: Machine Learning · Demand Forecasting · Pricing & A/B Testing · Guest Segmentation · Interactive Dashboard
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-0B0B0C?style=for-the-badge&logo=github&logoColor=F2C230)](https://github.com/imalgirdas/lumora-hotels)
 
 ---
  
-## 📊 GitHub Stats
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=imalgirdas&hide_border=true)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2C811,100:217346&height=100&section=footer" width="100%" />
