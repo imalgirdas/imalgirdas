@@ -72,6 +72,20 @@ Fraud and payments analysis for a European second-hand fashion marketplace, cove
 [![View Repository](https://img.shields.io/badge/View%20Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/payco-fraud-detection)
 ---
 
+### 🏨 Lumora Hotels: Revenue & Guest Data Science (2021–2025)
+
+<a href="https://github.com/imalgirdas/lumora-hotels">
+  <img src="https://raw.githubusercontent.com/imalgirdas/lumora-hotels/main/images/01_overview.png" alt="Lumora Hotels Streamlit Dashboard" width="100%">
+</a>
+
+Revenue and guest analytics for a group of 15 boutique hotels in 15 European cities, from Vilnius and Riga to Paris and Barcelona. Working in Python across 17 related tables (~1.58M rows), I cleaned the raw data, built six models (cancellation prediction, demand forecast, price elasticity, A/B tests, review drivers and guest segments), all tested on 2025 data they never saw, and delivered a 5-page interactive Streamlit dashboard. The cancellation model reaches **AUC 0.77**, and the riskiest 20% of bookings hold **47% of all cancellations**. The demand forecast cuts daily error to **14.6% vs 18.6%** for "same day last year". The analysis also covers room revenue growing from **€7.8M to €32.6M** and how the 2022 staff shortage dragged review scores down.
+
+**Focus areas:** Revenue Management (ADR, RevPAR, Occupancy) · Cancellation Prediction · Demand Forecasting · Pricing & A/B Tests · Guest Experience
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-EE8A4C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/lumora-hotels)
+---
+
+
 ### 🛵 Forkly Food Delivery Performance Analysis (2021–2025)
 
 <a href="https://github.com/imalgirdas/forkly-delivery-analytics">
