@@ -60,6 +60,18 @@ End-to-end sales analysis of an Amazon-style marketplace covering five years of 
 [![View Repository](https://img.shields.io/badge/View%20Repository-FF9900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/amazon-sales-pipeline)
 ---
 
+### 💳 Payco: Fraud Detection & Payment Analytics (2021–2025)
+ 
+<a href="https://github.com/imalgirdas/payco-fraud-detection">
+  <img src="https://raw.githubusercontent.com/imalgirdas/payco-fraud-detection/main/images/pr_curve.png" alt="Payco Fraud Model vs Rules Engine" width="100%">
+</a>
+Fraud and payments analysis for a European second-hand fashion marketplace, covering 328K checkouts and €12.5M in paid orders across 17 tables (~1.8M rows). Working with the Payments Risk team, I built three models in R: fraud detection, payment failure prediction and buyer churn, all validated on later months the models never saw. The fraud model reached a **PR-AUC of 0.71 vs 0.10** for the legacy rules engine, catching **78% of fraud by reviewing just 1% of transactions** and cutting fraud costs by **83% (€46K)** in the test period.
+ 
+**Focus areas:** Fraud Detection · Payment Approval & PSP Reliability · Churn Prediction · Time-Based Model Validation
+ 
+[![View Repository](https://img.shields.io/badge/View%20Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalgirdas/payco-fraud-detection)
+---
+
 ### 🏠 Airbnb Rentals Analysis (2022–2025)
 
 <a href="https://github.com/imalgirdas/Airbnb_Rentals_Analysis">
